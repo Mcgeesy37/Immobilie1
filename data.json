@@ -1,0 +1,62 @@
+{
+  "services": [
+    {
+      "title": "Individuelle Vermarktung",
+      "text": "Jede Immobilie erhält eine Positionierung, die sich an Objekt, Lage und Zielgruppe orientiert."
+    },
+    {
+      "title": "Hochwertige Präsentation",
+      "text": "Mit klarer Bildsprache, stimmigem Auftritt und einer Darstellung, die dem Wert des Objekts gerecht wird."
+    },
+    {
+      "title": "Persönliche Betreuung",
+      "text": "Direkter Ansprechpartner, verlässliche Kommunikation und Begleitung vom Erstkontakt bis zum Abschluss."
+    },
+    {
+      "title": "Diskrete Vermittlung",
+      "text": "Für Eigentümer, die Wert auf Seriosität, Ruhe und den richtigen Rahmen legen."
+    },
+    {
+      "title": "Qualifizierte Interessenten",
+      "text": "Sorgfältige Ansprache und strukturierter Prozess für einen professionellen Verkaufsverlauf."
+    },
+    {
+      "title": "Begleitung mit Anspruch",
+      "text": "Ein Serviceverständnis, das nicht nur organisiert, sondern Sicherheit und Vertrauen vermittelt."
+    }
+  ],
+  "properties": [
+    {
+      "image": "assets/property-1.jpg",
+      "alt": "Elegante Stadtwohnung mit hochwertigem Interieur",
+      "tag": "Stadtwohnung",
+      "title": "Klare Linien. Hochwertige Wirkung. Beste Lage.",
+      "text": "Ein Auftritt, der Architektur, Licht und Exklusivität sichtbar macht."
+    },
+    {
+      "image": "assets/property-2.jpg",
+      "alt": "Exklusives Einfamilienhaus mit Garten",
+      "tag": "Hausverkauf",
+      "title": "Ruhige Eleganz für besondere Ansprüche",
+      "text": "Vertrauen und Wertigkeit in einer stimmigen Gesamtwirkung."
+    },
+    {
+      "image": "assets/property-3.jpg",
+      "alt": "Luxuriöses Penthouse mit Panoramablick",
+      "tag": "Premium",
+      "title": "Markante Architektur mit exklusiver Ausstrahlung",
+      "text": "Für Immobilien, die mehr brauchen als ein gewöhnliches Inserat."
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Der Auftritt vermittelt sofort Qualität, Ruhe und Vertrauen — genau die Wirkung, die man sich im hochwertigen Immobilienbereich wünscht."
+    },
+    {
+      "text": "Sehr stilvoll, sehr klar und weit weg von dem, was man sonst so auf Maklerseiten sieht."
+    },
+    {
+      "text": "Man hat direkt das Gefühl, dass hier professionell, diskret und mit hohem Anspruch gearbeitet wird."
+    }
+  ]
+}
